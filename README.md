@@ -27,6 +27,10 @@
 ### Hobbies and Interests
 
 <div align="center">While I build robust systems with .NET by day, I unwind by threading through the thrilling bullet hells of Touhou Project, embracing the chaos and strategy. <img src="./imgs/Yin_and_Yang_symbol.svg.png" width="20" height="20" style="vertical-align:middle"/> <img src="./imgs/shinto-torii.png" width="20" height="20" style="vertical-align:middle"/></div>
+
+<br/>
+<h3 align="center">Hey, check out my latest <a href="https://github.com/Shimakaze-Kan/Onibi_Pro">project</a> – I'm super proud of it!</h3>
+
 <!--
 **Shimakaze-Kan/Shimakaze-Kan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
