@@ -26,7 +26,7 @@
 
 ### Hobbies and Interests
 
-<div align="center">While I build robust systems with .NET by day, I unwind by threading through the thrilling bullet hells of Touhou Project, embracing the chaos and strategy. <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Yin_and_Yang_symbol.svg/1024px-Yin_and_Yang_symbol.svg.png" width="20" height="20" style="vertical-align:middle"/> <img src="./imgs/shinto-torii.png" width="20" height="20" style="vertical-align:middle"/></div>
+<div align="center">While I build robust systems with .NET by day, I unwind by threading through the thrilling bullet hells of Touhou Project, embracing the chaos and strategy. <img src="./imgs/Yin_and_Yang_symbol.svg.png" width="20" height="20" style="vertical-align:middle"/> <img src="./imgs/shinto-torii.png" width="20" height="20" style="vertical-align:middle"/></div>
 <!--
 **Shimakaze-Kan/Shimakaze-Kan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
