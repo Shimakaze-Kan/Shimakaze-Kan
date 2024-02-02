@@ -1,4 +1,5 @@
-<p align="center"><b>Salutations! A passionate .NET Software Engineer here, with a penchant for creating vibrant front-end experiences using Angular. ✨🎉</b></p>
+<h3 align="center">Salutations!</h3>
+<p align="center"><b>A passionate .NET Software Engineer here, with a penchant for creating vibrant front-end <span style="white-space: nowrap;">experiences using Angular. ✨🎉</span></b></p>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 <div style="background:white">
@@ -15,7 +16,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></div></div> -->
-<br/>
 
 ### Languages and Tools
 
