@@ -30,6 +30,7 @@
 
 <br/>
 <h3 align="center">Hey, check out my latest <a href="https://github.com/Shimakaze-Kan/Onibi_Pro">project</a> – I'm super proud of it!</h3>
+<h4 align="center"><b>Also</b>, I've fulfilled my dream of creating my robust scripting language; <a href="https://github.com/Shimakaze-Kan/GNScript">check it out here</a>!</h4>
 
 <!--
 **Shimakaze-Kan/Shimakaze-Kan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
